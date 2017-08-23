@@ -15,7 +15,7 @@ export class DashComponent implements OnInit {
     },
     {
       title: 'Posts',
-      icon: 'lists',
+      icon: 'create',
       link: '/backend/posts'
     },
     {
@@ -25,12 +25,12 @@ export class DashComponent implements OnInit {
     },
     {
       title: 'Category',
-      icon: 'dashboard',
+      icon: 'lists',
       link: '/backend/dash'
     },
     {
       title: 'Tags',
-      icon: 'dashboard',
+      icon: 'loyalty',
       link: '/backend/dash'
     },
     {
