@@ -1,4 +1,4 @@
-import {RouterModule, Route} from '@angular/router';
+import { RouterModule, Route } from '@angular/router';
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { HomeComponent } from "../home/home.component";
@@ -18,7 +18,7 @@ const routes: Route[] = [
 
 @NgModule({
   imports: [
-    CommonModule, RouterModule.forRoot(routes, { useHash: true})
+    CommonModule, RouterModule.forRoot(routes, { useHash: true })
   ],
   exports: [
     RouterModule
