@@ -10,7 +10,7 @@
     source-map "^0.5.6"
     typescript "^2.3.3"
 
-"@angular/animations@^4.2.4":
+"@angular/animations@^4.3.5":
   version "4.3.5"
   resolved "http://registry.npm.taobao.org/@angular/animations/download/@angular/animations-4.3.5.tgz#85aa454c887cc7cce11637ea5f6e9afad88490e1"
   dependencies:

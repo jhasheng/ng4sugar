@@ -1,15 +1,14 @@
-import {RoutingModule} from '../routing/routing.module';
-import {FlexLayoutModule} from '@angular/flex-layout';
-import {MaterialModule} from '@angular/material';
+import { FlexLayoutModule } from '@angular/flex-layout';
+import { MaterialModule } from '@angular/material';
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
 @NgModule({
   imports: [
-    CommonModule, RoutingModule
+    CommonModule
   ],
   exports: [
-    MaterialModule, FlexLayoutModule, RoutingModule
+    MaterialModule, FlexLayoutModule
   ]
 })
 export class SharedModule { }
