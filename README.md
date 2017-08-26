@@ -1,3 +1,3 @@
 # Ng4sugar
 
-[Demo](https://jhasheng.github.io)
+[Firebase Demo](https://sugar-ddad3.firebaseapp.com)
